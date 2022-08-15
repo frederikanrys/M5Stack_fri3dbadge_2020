@@ -1,21 +1,11 @@
 # M5Stack Library
 
-English | [中文](docs/getting_started_cn.md) | [日本語](docs/getting_started_ja.md)
+This is a port for M5Stack library so it can be used on the fri3d badge 2020 (https://github.com/Fri3dCamp/badge-2020)
 
-<img src="https://static-cdn.m5stack.com/resource/docs/static/assets/img/product_pics/core/gray/gray_01.webp" alt="gray" width="350" height="350">
+Install the library if you want to use the M5Stack api to write software for your badge. 
 
-<img src="https://static-cdn.m5stack.com/resource/docs/static/assets/img/product_pics/core/basic/basic_01.webp" alt="basic" width="350" height="350">
 
-* **For the Detailed documentation of Gray, please [Click here](https://docs.m5stack.com/en/core/gray)**
 
-* **For the Detailed documentation of Basic, please [Click here](https://docs.m5stack.com/en/core/basic_v2.6)**
-
-* **In order to buy Basic, please [Click here](https://shop.m5stack.com/collections/m5-controllers/products/esp32-basic-core-iot-development-kit-v2-6)**
-
-*We have several master M5Cores with different configurations, this is the difference between them [Compared](https://docs.m5stack.com/en/products_selector).*
-
-### M-BUS
-![image](docs/M-BUS.jpg)
 
 ## More Information
 
